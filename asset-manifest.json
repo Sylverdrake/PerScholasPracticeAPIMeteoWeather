@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PerScholasPracticeAPIMeteoWeather/static/css/main.83ac7fb9.css",
+    "main.js": "/PerScholasPracticeAPIMeteoWeather/static/js/main.d66d09d0.js",
+    "static/js/787.13d76ca7.chunk.js": "/PerScholasPracticeAPIMeteoWeather/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/PerScholasPracticeAPIMeteoWeather/index.html",
+    "main.83ac7fb9.css.map": "/PerScholasPracticeAPIMeteoWeather/static/css/main.83ac7fb9.css.map",
+    "main.d66d09d0.js.map": "/PerScholasPracticeAPIMeteoWeather/static/js/main.d66d09d0.js.map",
+    "787.13d76ca7.chunk.js.map": "/PerScholasPracticeAPIMeteoWeather/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ac7fb9.css",
+    "static/js/main.d66d09d0.js"
+  ]
+}
